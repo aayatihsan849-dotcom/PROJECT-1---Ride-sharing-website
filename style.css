@@ -9,7 +9,7 @@
 }
 
 body {
-
+    
     background-color: #F9F9F9;
 }
 
@@ -60,7 +60,7 @@ a {
     flex-direction: column;
     justify-content: end;
     gap: 50px;
-
+    
 }
 
 .section2 {
@@ -131,7 +131,7 @@ a {
     display: flex;
     align-items: center;
     gap: 12px;
-
+    
 }
 
 .green-box>p {
@@ -176,7 +176,7 @@ a {
     font-size: 23px;
     color: var(--light-text-color);
     text-align: center;
-
+    
 }
 
 .section-heading {
@@ -185,7 +185,7 @@ a {
     display: flex;
     justify-content: center;
     gap: 10px;
-
+    
 }
 
 .steps {
@@ -193,7 +193,7 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-
+    
 }
 
 .step-1 {
@@ -276,9 +276,9 @@ a {
     align-items: center;
     border-radius: 10px;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-
-
-
+    
+    
+    
 }
 
 .right-benefit {
